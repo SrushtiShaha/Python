@@ -1,0 +1,6 @@
+ProductID,ProductName,Price,Category
+1,Laptop,50000.0,Electronics
+2,Mouse,500.0,Accessories
+3,Keyboard,,Accessories
+4,Monitor,12000.0,Electronics
+5,USB Cable,,Accessories
